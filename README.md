@@ -24,17 +24,13 @@ pip3 install matplotlib
 
 ## What's included?
 
-### ``bot.py`` contains starter code for the Python program
+#### ``bot.py`` contains starter code for the Python program
 
---
-
-### ``secret.py`` will hold your API keys and tokens
+#### ``secret.py`` will hold your API keys and tokens
 
 - you want to keep your API keys secret, which is why they are placed in a separate file from your program.
 
 - if you choose to put your project on GitHub, DO NOT commit ``secret.py``
-
----
 
 ## How to Generate Twitter API Keys and Tokens
 
